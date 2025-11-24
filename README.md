@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Awesome [Ftrace](https://man7.org/linux/man-pages/man1/perf-ftrace.1.html)
+# Awesome [Ftrace](https://man7.org/linux/man-pages/man1/perf-ftrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.die.net/man/1/ftrace)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
@@ -18,3 +18,21 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-ftrace/graphs/contributors)!
+
+[🔼 Back to top](#awesome-ftrace-)
