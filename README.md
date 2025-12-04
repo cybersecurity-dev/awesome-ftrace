@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Awesome [Ftrace](https://man7.org/linux/man-pages/man1/perf-ftrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Ftrace](https://man7.org/linux/man-pages/man1/perf-ftrace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.die.net/man/1/ftrace)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
